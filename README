@@ -1,0 +1,17 @@
+### xv6-lab-2020
+
+Fork from git://g.csail.mit.edu/xv6-labs-2020
+
+solving the lab assignments for review of Operating System
+
+- [ ] Utilities
+- [ ] System Calls
+- [ ] Page Tables
+- [ ] Traps
+- [ ] Lazy Allocation
+- [ ] Copy on-write
+- [ ] MultiThreading
+- [ ] Lock
+- [ ] File System
+- [ ] mmap
+- [ ] Network Driver
